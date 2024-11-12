@@ -22,10 +22,11 @@
 
      - Dokumentasi Delete
        ![image](https://github.com/user-attachments/assets/405c6344-740a-48fb-a6fc-2bd30652e8ac)
+       - Keterangan: Saat melakukan endpoint delete tidak muncul respon pesan, akan tetapi berhasil untuk melakukan operasi delete.
 
      - Dokumentasi Update/Put
        ![image](https://github.com/user-attachments/assets/e673ab7c-73e8-432d-8ca9-4033412d6d3f)
-       - Keterangan: Saat melakukan endpoint delete berhasil un
+       
 
        
 **B. TUGAS TAMBAHAN**
